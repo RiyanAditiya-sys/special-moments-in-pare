@@ -1,0 +1,52 @@
+[
+  {
+    "id": "zack",
+    "name": "Ahmad Zaki",
+    "nickname": "Zack",
+    "city": "Makassar",
+    "photo": "/image/WhatsApp Image 2026-07-15 at 12.05.57.jpeg",
+    "favoriteMemory": "Cooking Coto Makassar in the camp kitchen for 20 people. It was chaotic but tasted amazing.",
+    "funnyStory": "Zack tried to speak English in his sleep and kept shouting 'Subject Verb Agreement!' at 3 AM.",
+    "personalQuote": "Don't count the days, make the days count."
+  },
+  {
+    "id": "sasa",
+    "name": "Sarah Amalia",
+    "nickname": "Sasa",
+    "city": "Bandung",
+    "photo": "/image/WhatsApp Image 2026-07-15 at 12.05.57 (1).jpeg",
+    "favoriteMemory": "Sitting under the mango tree talking about our future plans. She always had the best advice.",
+    "funnyStory": "Getting caught speaking Sundanese by the tutor and having to do a chicken dance as a penalty.",
+    "personalQuote": "Life is short, make every smile count."
+  },
+  {
+    "id": "bimbim",
+    "name": "Bima Wijaya",
+    "nickname": "Bim-Bim",
+    "city": "Surabaya",
+    "photo": "/image/WhatsApp Image 2026-07-15 at 12.05.58.jpeg",
+    "favoriteMemory": "Renting bikes and racing down the main street of Pare at midnight under the streetlights.",
+    "funnyStory": "He lost his sandal in the mud during a sudden rainstorm and walked home with only one shoe.",
+    "personalQuote": "If you're not laughing, you're not living."
+  },
+  {
+    "id": "dee",
+    "name": "Dewi Lestari",
+    "nickname": "Dee",
+    "city": "Yogyakarta",
+    "photo": "/image/WhatsApp Image 2026-07-15 at 12.05.58 (1).jpeg",
+    "favoriteMemory": "Singing acoustic songs at the street food stall during the heavy rain. Her voice was like magic.",
+    "funnyStory": "She ordered 'ice tea' but pronounced it like 'eyes tea' and the seller was extremely confused.",
+    "personalQuote": "Music expresses that which cannot be said in words."
+  },
+  {
+    "id": "fik",
+    "name": "Fikri Syahputra",
+    "nickname": "Fik",
+    "city": "Medan",
+    "photo": "/image/WhatsApp Image 2026-07-15 at 12.05.59.jpeg",
+    "favoriteMemory": "Playing football together. He was our star striker and always cheered everyone up.",
+    "funnyStory": "Fikri tried to negotiate the price of a bicycle rental in English with an elderly Javanese lady.",
+    "personalQuote": "Keep kicking forward, no matter what."
+  }
+]

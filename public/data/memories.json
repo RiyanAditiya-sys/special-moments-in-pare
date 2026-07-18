@@ -1,0 +1,132 @@
+[
+  {
+    "id": "arrival",
+    "title": "The Journey Begins",
+    "date": "July 1, 2026",
+    "location": "Kediri Train Station to Pare",
+    "description": "Stepping off the train in Kediri, feeling a mix of excitement and anxiety. The journey to Pare in a local taxi, watching the scenery shift to quiet villages. This is Kampung Inggris, where English is spoken in the streets.",
+    "image": "/image/WhatsApp Image 2026-07-15 at 12.06.02 (2).jpeg",
+    "x": 10,
+    "y": 20
+  },
+  {
+    "id": "first-day",
+    "title": "Placement Test & Ice Breaking",
+    "date": "July 2, 2026",
+    "location": "Camp Main Hall",
+    "description": "Gathering at the camp with dozens of new faces. We introduced ourselves in broken English, laughing at our pronunciation mistakes. The warmth of the tutors put us at ease immediately.",
+    "image": "/image/WhatsApp Image 2026-07-15 at 12.06.03.jpeg",
+    "x": 20,
+    "y": 30
+  },
+  {
+    "id": "friends",
+    "title": "The Camp Family",
+    "date": "July 5, 2026",
+    "location": "Our Shared Room",
+    "description": "Living in a shared room with people from different islands. We sat in a circle on the floor, sharing our local snacks and telling late-night stories. In just a few days, strangers became family.",
+    "image": "/image/WhatsApp Image 2026-07-15 at 12.06.03 (1).jpeg",
+    "x": 35,
+    "y": 45
+  },
+  {
+    "id": "english-class",
+    "title": "No Bahasa Allowed",
+    "date": "July 8, 2026",
+    "location": "Classroom 3B",
+    "description": "The strict 'English Area' rule! Speaking Indonesian meant paying a fine of 500 rupiah per word. We got creative, using hand gestures and funny sound effects to communicate.",
+    "image": "/image/WhatsApp Image 2026-07-15 at 12.06.03 (2).jpeg",
+    "x": 50,
+    "y": 35
+  },
+  {
+    "id": "study-time",
+    "title": "Under the Mango Tree",
+    "date": "July 12, 2026",
+    "location": "Camp Backyard",
+    "description": "Group study sessions under the shady mango tree in the backyard. Memorizing vocabularies, practicing presentations, and drilling grammar rules together under the afternoon breeze.",
+    "image": "/image/WhatsApp Image 2026-07-15 at 12.06.04.jpeg",
+    "x": 60,
+    "y": 50
+  },
+  {
+    "id": "coffee-break",
+    "title": "Sweet Iced Coffee & Toast",
+    "date": "July 16, 2026",
+    "location": "Warung Mbah Darmo",
+    "description": "Rushing to the local warung during the 15-minute class break. A glass of iced coffee for 5,000 rupiah and a warm chocolate toast was our daily fuel.",
+    "image": "/image/WhatsApp Image 2026-07-15 at 12.06.04 (1).jpeg",
+    "x": 70,
+    "y": 65
+  },
+  {
+    "id": "football",
+    "title": "Afternoon Match",
+    "date": "July 20, 2026",
+    "location": "Pare Local Stadium",
+    "description": "A friendly match at the local field under the golden sunset. Running in the dust, cheering for every goal, and sharing a giant bottle of cold water afterwards.",
+    "image": "/image/WhatsApp Image 2026-07-15 at 12.06.04 (2).jpeg",
+    "x": 45,
+    "y": 75
+  },
+  {
+    "id": "cafe-nights",
+    "title": "Late Night Debates",
+    "date": "July 24, 2026",
+    "location": "Daffodil Cafe",
+    "description": "Gathering at a cozy cafe in Pare. With our laptops open, we debated philosophical topics and gossiped about camp life until the cafe closed at midnight.",
+    "image": "/image/WhatsApp Image 2026-07-15 at 12.06.05.jpeg",
+    "x": 80,
+    "y": 40
+  },
+  {
+    "id": "weekend-adventures",
+    "title": "Exploring Simpang Lima Gumul",
+    "date": "July 29, 2026",
+    "location": "Gumul Arc, Kediri",
+    "description": "Renting bicycles and riding all the way to Kediri's Arc de Triomphe look-alike, Simpang Lima Gumul. Our legs were sore, but the night lights and laughter made it worth every pedal.",
+    "image": "/image/WhatsApp Image 2026-07-15 at 12.06.05 (1).jpeg",
+    "x": 25,
+    "y": 80
+  },
+  {
+    "id": "rainy-days",
+    "title": "Sheltering Under the Canopy",
+    "date": "August 3, 2026",
+    "location": "Street Food Stall",
+    "description": "A sudden tropical downpour trapped us at a street food stall. We ate hot bakso (meatballs) while watching the rain flood the street, singing acoustic songs to the sound of thunder.",
+    "image": "/image/WhatsApp Image 2026-07-15 at 12.06.05 (2).jpeg",
+    "x": 55,
+    "y": 60
+  },
+  {
+    "id": "funny-moments",
+    "title": "The Ghost Story Prank",
+    "date": "August 8, 2026",
+    "location": "Camp Dormitory",
+    "description": "Turning off all the camp lights and telling ghost stories. The boys set up a fake ghost made of a white sheet that dropped from the ceiling, causing a wave of screams and laughter that woke up the neighborhood.",
+    "image": "/image/WhatsApp Image 2026-07-15 at 12.06.05 (3).jpeg",
+    "x": 30,
+    "y": 55
+  },
+  {
+    "id": "graduation",
+    "title": "The Farewell Speech",
+    "date": "August 27, 2026",
+    "location": "Graduation Hall",
+    "description": "Dressed in our best clothes, standing on the stage to receive our certificates. Some cried during their farewell speeches, reflecting on how much we had grown in just two months.",
+    "image": "/image/WhatsApp Image 2026-07-15 at 12.06.06.jpeg",
+    "x": 85,
+    "y": 85
+  },
+  {
+    "id": "last-goodbye",
+    "title": "Until We Meet Again",
+    "date": "August 28, 2026",
+    "location": "Kediri Train Station",
+    "description": "Hugging each other tight at the train station. Suitcases packed, teary eyes, and promises to meet again. We entered as strangers, left as family, and carried a piece of Pare in our hearts forever.",
+    "image": "/image/WhatsApp Image 2026-07-15 at 12.06.06 (1).jpeg",
+    "x": 10,
+    "y": 90
+  }
+]

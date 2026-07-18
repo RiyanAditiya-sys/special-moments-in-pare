@@ -1,0 +1,194 @@
+[
+  {
+    "id": "gallery-1",
+    "category": "Together",
+    "image": "/image/3.jpeg",
+    "caption": "All of us together — the whole Pare crew, one frame.",
+    "date": "July 1, 2026",
+    "location": "Kampung Inggris, Pare"
+  },
+  {
+    "id": "gallery-2",
+    "category": "Arrival",
+    "image": "/image/1 (1).jpeg",
+    "caption": "First day at camp — nervous smiles and fresh beginnings.",
+    "date": "July 2, 2026",
+    "location": "Camp Main Hall, Pare"
+  },
+  {
+    "id": "gallery-3",
+    "category": "Friends",
+    "image": "/image/1 (2).jpeg",
+    "caption": "The moment strangers became people you'd never forget.",
+    "date": "July 3, 2026",
+    "location": "Kampung Inggris, Pare"
+  },
+  {
+    "id": "gallery-4",
+    "category": "Graduation",
+    "image": "/image/1 (3).jpeg",
+    "caption": "Certificates in hand — two months of hard work, finally celebrated.",
+    "date": "August 27, 2026",
+    "location": "Graduation Hall, Pare"
+  },
+  {
+    "id": "gallery-5",
+    "category": "Friends",
+    "image": "/image/1 (4).jpeg",
+    "caption": "Hanging out between classes — the best kind of break.",
+    "date": "July 8, 2026",
+    "location": "Kampung Inggris, Pare"
+  },
+  {
+    "id": "gallery-6",
+    "category": "Friends",
+    "image": "/image/1 (5).jpeg",
+    "caption": "Late nights in the shared room — stories, laughter, zero sleep.",
+    "date": "July 10, 2026",
+    "location": "Camp Shared Room, Pare"
+  },
+  {
+    "id": "gallery-7",
+    "category": "Daily Life",
+    "image": "/image/1 (6).jpeg",
+    "caption": "Break time at the warung — iced coffee that fuelled every lesson.",
+    "date": "July 16, 2026",
+    "location": "Warung Mbah Darmo, Pare"
+  },
+  {
+    "id": "gallery-8",
+    "category": "Trips",
+    "image": "/image/1 (7).jpeg",
+    "caption": "Weekend adventures outside the camp — finally, some fresh air.",
+    "date": "July 22, 2026",
+    "location": "Kediri"
+  },
+  {
+    "id": "gallery-9",
+    "category": "Fun",
+    "image": "/image/1 (8).jpeg",
+    "caption": "We never ran out of reasons to laugh.",
+    "date": "July 18, 2026",
+    "location": "Kampung Inggris, Pare"
+  },
+  {
+    "id": "gallery-10",
+    "category": "Fun",
+    "image": "/image/1 (9).jpeg",
+    "caption": "Candid chaos — this is what our free time looked like.",
+    "date": "July 25, 2026",
+    "location": "Kampung Inggris, Pare"
+  },
+  {
+    "id": "gallery-11",
+    "category": "Trips",
+    "image": "/image/1 (10).jpeg",
+    "caption": "Cycling to Simpang Lima Gumul — sore legs, huge smiles.",
+    "date": "July 29, 2026",
+    "location": "Gumul Arc, Kediri"
+  },
+  {
+    "id": "gallery-12",
+    "category": "Trips",
+    "image": "/image/1 (11).jpeg",
+    "caption": "The road back home always felt longer than it really was.",
+    "date": "July 29, 2026",
+    "location": "Kediri"
+  },
+  {
+    "id": "gallery-13",
+    "category": "Study",
+    "image": "/image/1 (12).jpeg",
+    "caption": "Studying hard under the mango tree — the No Bahasa zone.",
+    "date": "July 12, 2026",
+    "location": "Mango Tree Backyard, Pare"
+  },
+  {
+    "id": "gallery-14",
+    "category": "Study",
+    "image": "/image/1 (13).jpeg",
+    "caption": "Vocabulary drills, debates, and grammar — all part of the journey.",
+    "date": "July 15, 2026",
+    "location": "Kampung Inggris, Pare"
+  },
+  {
+    "id": "gallery-15",
+    "category": "Friends",
+    "image": "/image/1 (14).jpeg",
+    "caption": "Group photos that will live on our phones forever.",
+    "date": "July 20, 2026",
+    "location": "Kampung Inggris, Pare"
+  },
+  {
+    "id": "gallery-16",
+    "category": "Daily Life",
+    "image": "/image/1 (16).jpeg",
+    "caption": "Morning routines and quiet moments before classes began.",
+    "date": "July 6, 2026",
+    "location": "Kampung Inggris, Pare"
+  },
+  {
+    "id": "gallery-17",
+    "category": "Friends",
+    "image": "/image/1 (17).jpeg",
+    "caption": "Two months later, these faces felt like home.",
+    "date": "August 10, 2026",
+    "location": "Kampung Inggris, Pare"
+  },
+  {
+    "id": "gallery-18",
+    "category": "Graduation",
+    "image": "/image/1 (18).jpeg",
+    "caption": "The ceremony that marked the end — and also the beginning.",
+    "date": "August 27, 2026",
+    "location": "Graduation Hall, Pare"
+  },
+  {
+    "id": "gallery-19",
+    "category": "Graduation",
+    "image": "/image/1 (19).jpeg",
+    "caption": "Farewell speeches that left no dry eyes in the room.",
+    "date": "August 27, 2026",
+    "location": "Graduation Hall, Pare"
+  },
+  {
+    "id": "gallery-20",
+    "category": "Goodbye",
+    "image": "/image/1 (20).jpeg",
+    "caption": "The last goodbye — packed bags, heavy hearts.",
+    "date": "August 28, 2026",
+    "location": "Kediri Train Station"
+  },
+  {
+    "id": "gallery-21",
+    "category": "Goodbye",
+    "image": "/image/1 (21).jpeg",
+    "caption": "One last look at Pare before the train pulled away.",
+    "date": "August 28, 2026",
+    "location": "Kediri Train Station"
+  },
+  {
+    "id": "gallery-22",
+    "category": "Together",
+    "image": "/image/1 (22).jpeg",
+    "caption": "A moment frozen in time — all of us, one last time.",
+    "date": "August 28, 2026",
+    "location": "Kampung Inggris, Pare"
+  },
+  {
+    "id": "gallery-23",
+    "category": "Together",
+    "image": "/image/1 (23).jpeg",
+    "caption": "We came as strangers. We left as family.",
+    "date": "August 28, 2026",
+    "location": "Kampung Inggris, Pare"
+  },
+  {
+    "id": "gallery-24",
+    "category": "Together",
+    "image": "/image/1 (24).jpeg",
+    "caption": "Pare. The place that changed everything.",
+    "date": "August 28, 2026",
+    "location": "Kampung Inggris, Pare"
+  }
+]

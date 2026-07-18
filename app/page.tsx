@@ -1,66 +1,46 @@
-import Image from "next/image";
-import styles from "./page.module.css";
+"use client";
+
+import React, { useState, useEffect } from "react";
+import LoadingScreen from "@/sections/LoadingScreen";
+import Hero from "@/sections/Hero";
+import Introduction from "@/sections/Introduction";
+import Chapters from "@/sections/Chapters";
+import Gallery from "@/sections/Gallery";
+import Letter from "@/sections/Letter";
+import Ending from "@/sections/Ending";
 
 export default function Home() {
+  const [isLoaded, setIsLoaded] = useState(false);
+
+  // Manage body scroll lock based on preloader state
+  useEffect(() => {
+    if (!isLoaded) {
+      document.documentElement.classList.add("lenis-stopped");
+      document.body.style.overflow = "hidden";
+    } else {
+      document.documentElement.classList.remove("lenis-stopped");
+      document.body.style.overflow = "auto";
+    }
+  }, [isLoaded]);
+
   return (
-    <div className={styles.page}>
-      <main className={styles.main}>
-        <Image
-          className={styles.logo}
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className={styles.intro}>
-          <h1>To get started, edit the page.tsx file.</h1>
-          <p>
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Learning
-            </a>{" "}
-            center.
-          </p>
-        </div>
-        <div className={styles.ctas}>
-          <a
-            className={styles.primary}
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className={styles.logo}
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={16}
-            />
-            Deploy Now
-          </a>
-          <a
-            className={styles.secondary}
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
-        </div>
-      </main>
-    </div>
+    <>
+      {/* 1. Preloader Typographic Overlay */}
+      {!isLoaded && <LoadingScreen onEnter={() => setIsLoaded(true)} />}
+
+      {/* 2. Photo-Book Scrapbook Flow */}
+      <div
+        className={`w-full transition-opacity duration-1000 ${
+          isLoaded ? "opacity-100" : "opacity-0"
+        }`}
+      >
+        <Hero />
+        <Introduction />
+        <Chapters />
+        <Gallery />
+        <Letter />
+        <Ending />
+      </div>
+    </>
   );
 }

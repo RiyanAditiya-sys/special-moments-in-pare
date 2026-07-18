@@ -1,0 +1,50 @@
+[
+  {
+    "id": "camp",
+    "title": "The Camp (Sweet House)",
+    "description": "Where we lived, shared stories, and practiced English 24/7. Strangers became family here.",
+    "image": "/image/WhatsApp Image 2026-07-15 at 12.06.03 (1).jpeg",
+    "x": 30,
+    "y": 40
+  },
+  {
+    "id": "classroom",
+    "title": "Mango Tree Backyard",
+    "description": "The shade where we learned grammar rules, debated global issues, and practiced speaking under the afternoon breeze.",
+    "image": "/image/WhatsApp Image 2026-07-15 at 12.06.04.jpeg",
+    "x": 45,
+    "y": 55
+  },
+  {
+    "id": "warung",
+    "title": "Warung Mbah Darmo",
+    "description": "Our daily stop for iced coffee and warm chocolate toast during the 15-minute breaks. It only cost 5,000 rupiah!",
+    "image": "/image/WhatsApp Image 2026-07-15 at 12.06.04 (1).jpeg",
+    "x": 60,
+    "y": 35
+  },
+  {
+    "id": "cafe",
+    "title": "Daffodil Cafe",
+    "description": "Late night study sessions, laughing, and eating deep-fried bananas. Open until the midnight chime.",
+    "image": "/image/WhatsApp Image 2026-07-15 at 12.06.05.jpeg",
+    "x": 80,
+    "y": 45
+  },
+  {
+    "id": "stadium",
+    "title": "Pare Local Stadium",
+    "description": "Dusty afternoon football matches. Running under the golden sunset, shouting in broken English, and sharing cold water.",
+    "image": "/image/WhatsApp Image 2026-07-15 at 12.06.04 (2).jpeg",
+    "x": 25,
+    "y": 70
+  },
+  {
+    "id": "station",
+    "title": "Kediri Train Station",
+    "description": "The place of nervous arrivals and tearful departures. The gateway to our beautiful Kampung Inggris adventure.",
+    "image": "/image/WhatsApp Image 2026-07-15 at 12.06.06 (1).jpeg",
+    "x": 10,
+    "y": 90
+  }
+]

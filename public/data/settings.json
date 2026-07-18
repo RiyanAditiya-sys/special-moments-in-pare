@@ -1,0 +1,12 @@
+{
+  "appName": "Pare Memories",
+  "tagline": "Some journeys end, but memories never do.",
+  "capsuleDate": "2031-07-01T00:00:00",
+  "defaultVolume": 0.5,
+  "ambientSounds": [
+    { "id": "rain", "name": "Soft Rain", "active": true },
+    { "id": "cafe", "name": "Cozy Cafe", "active": false },
+    { "id": "wind", "name": "Evening Breeze", "active": false },
+    { "id": "birds", "name": "Morning Birds", "active": false }
+  ]
+}
